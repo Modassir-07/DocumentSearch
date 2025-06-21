@@ -1,0 +1,6 @@
+a,1
+another,1
+is,2
+sample,1
+sentence,2
+this,2
